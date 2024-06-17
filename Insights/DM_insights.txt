@@ -1,0 +1,40 @@
+The number of movies released increased a lot from 2003 to 2009 because:
+
+More production companies, filmmakers, and distributors got interested in making movies.
+People wanted to watch more movies.
+It became easier to show movies all over the world because of the internet.
+New technology made it cheaper to make movies.
+People's interests and what they liked in movies changed, so more movies were made to fit what they wanted.
+
+In year 1937 the average (mean) earnings from movies were higher compared to other years.
+in 1937 where the minimum, maximum, and mean earnings were equal may be attributed to mathematical calculations.
+With only one film released, its earnings had a significant impact on the average.
+In contrast, in other years with more films released, there is likely to be greater variability in earnings, leading to larger differences between minimum, maximum, and mean earnings.
+This reflects the mathematical effect of individual values and variability on the average, which can be less stable in years with greater earnings variability
+
+conclusion : while some years had really successful movies making a lot of money on average, overall, movies were making more and more money each year.
+
+
+Factors may influencing a movie's reception:
+
+Genre --> Audience preferences for different types of films.
+Director --> Influence of the director's reputation and style.
+Cast --> Impact of talented and well-known actors.
+Plot and Storyline --> Importance of engaging and coherent narratives.
+Cinematography --> Effect of visual presentation on viewer experience.
+Duration --> Audience attention and satisfaction with movie length.
+Marketing and Promotion.
+Release Timing.
+Cultural and Societal Factors: Contextual considerations affecting audience reception.
+
+Film-Noir genre tends to have higher median IMDb ratings compared to other genres, while Sport genre has the lowest median IMDb rating.
+This suggests that movies categorized under Film-Noir are generally better received by viewers, while those categorized under Sport might not be as well-received on average.
+
+Films categorized under Film-Noir may have higher average ratings, their gross earnings might not necessarily reflect this.
+On the other hand, films under the Horror genre seem to generate higher profits despite potentially lower average ratings.
+
+The difference in the relationship between genres (average ratings, and gross earnings) can be attributed to various factors:
+Audience Preference: Horror films have loyal fans who watch them despite lower ratings. Film-Noir movies are admired by a smaller group, resulting in higher ratings but lower earnings.
+Production Costs: Horror movies are cheaper to make, leading to higher profits. Film-Noir films cost more to produce, reducing profits despite good ratings.
+Market Competition: Horror films face less competition, allowing them to earn more. Film-Noir struggles against other genres, impacting its earnings.
+Cultural Influence: Audience tastes change based on cultural trends. Horror films align with current preferences, while Film-Noir may not, affecting their commercial success.
